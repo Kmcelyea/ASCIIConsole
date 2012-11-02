@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIICharacters", "ConsoleApplication2\ASCIICharacters.csproj", "{02FE19C7-8F06-4D42-A069-6584D2516895}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIICharacters", "ASCIICharacters\ASCIICharacters.csproj", "{02FE19C7-8F06-4D42-A069-6584D2516895}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

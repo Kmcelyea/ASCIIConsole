@@ -10,6 +10,11 @@ namespace ASCIICharacters
     {
         static void Main(string[] args)
         {
+            // Get rid of the scroll bars by making the buffer the same size as the window
+            Console.Clear();
+            Console.SetWindowSize(65, 33);
+            Console.BufferWidth = 65;
+            Console.BufferHeight = 33;
             // Set the window size and title
             Console.Title = "Code Page 437: MS-DOS ASCII Characters";
 
